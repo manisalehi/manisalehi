@@ -1,14 +1,11 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, my name is Mani.
 
 
-I am 🧙 Software Engineer and 👾 Security Researcher ( 🏆 8 x Listed in Google's Hall of Fame (TOP-100) )
+I am ✈️ Aerospace Engineering Student | Passionate about 🤖 Autonomous Systems, Robotics, Control theory and AI | Developing  🖥️ High-Fidelity Simulations for Next-Generation Robotics and Aerospace Solutions
 
 Welcome to my page; on my Github, you can find:
-- Projects created by me 
-- Security writeups and CVE reported by me
-- Tutorials around security and programming
-
-
+- Open source packages developed by me
+- Intresting projects I have done as a part of my courseworks
 
 
 #### 📧 You can contact me on:
@@ -16,7 +13,7 @@ Welcome to my page; on my Github, you can find:
 
 
 --- 
-#### I am 🧙 Software Engineer on full-time.
+#### I am an undergrad aerospace engineering student ✈️
 
 
 In my view, the best approach is to pick the tech that's just right for the problem.
