@@ -1,7 +1,3 @@
-📢 Nominate ([@Puliczek](https://github.com/puliczek/)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate his hard work and dedication to open source.
-
----
-
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, my name is Mani.
 
 
